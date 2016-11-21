@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/fool/gitbook-test-2#readme",
   "dependencies": {
-    "gitbook": "^3.2.2"
+    "gitbook": "^3.2.2",
+    "gitbook-cli": "^2.3.0"
   }
 }
